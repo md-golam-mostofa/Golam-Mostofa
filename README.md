@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Golam Mostofa
-- 👀 I’m interested in DevOps Engineering Projects
-- 🌱 I’m currently learning on Devops Engineering with cloud computing like aws, azure.
+- 👀 I’m interested in DevOps Engineering Project
+- 🌱 I’m currently learning on Devops Engineering with cloud computing like aws, azure
 - 📫 How to reach me - golammostofa239@gmail.com
 
 <!---
